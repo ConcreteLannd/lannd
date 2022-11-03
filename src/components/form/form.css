@@ -1,0 +1,13 @@
+.form-inline {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.panel-success .panel-heading {
+    width: 100%;
+    padding: 10px;
+    background-color: #b3e7d64d;
+}
+.panel-success table {
+    width: 100%;
+}

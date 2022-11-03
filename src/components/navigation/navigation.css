@@ -1,0 +1,9 @@
+.menu {
+    display: flex;
+}
+.menu a {
+    padding: 10px 15px;
+    color: #000;
+    text-align: center;
+    text-decoration: none;
+}

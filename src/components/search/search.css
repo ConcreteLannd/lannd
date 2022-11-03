@@ -1,0 +1,14 @@
+.input-group input {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+.btn-info {
+    padding: 10px;
+    background: #4a81cb;
+    color: #fff;
+    border: 1px solid #4a81cb;
+}
+.input-group {
+    display: flex;
+    justify-content: space-between;
+}

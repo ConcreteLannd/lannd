@@ -1,0 +1,11 @@
+.header {
+}
+
+.hd-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+}
